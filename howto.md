@@ -1,4 +1,4 @@
-#How to download and put meteor client in ur game.
+# How to download and put meteor client in ur game.
 
 first you will need to get java (skip if you already have java installed)
 heres a tutorial for it: https://www.youtube.com/watch?v=qILdA4gjwrU&ab_channel=TheBreakdown
