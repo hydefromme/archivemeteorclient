@@ -2,6 +2,7 @@
 
 ## download fabric
 first you will need to get java (skip if you already have java installed)
+
 heres a tutorial for it: [how-to-get-java-2025](https://www.youtube.com/watch?v=qILdA4gjwrU&ab_channel=TheBreakdown)
 
 ## download java
