@@ -8,8 +8,9 @@ all the archived versions of meteorclient versions we have: 1.21.4-1.21.4
 i add the versions mostly the day they drop or within 2 days.
 
 ## versions
+
 | Release             | Download                                                                                         |
-| 1.21.4              | https://github.com/hydefromme/archivemeteorclient/blob/main/versions/meteor-client-1.21.4-37.jar |
+| 1.21.4              | [meteor-client-1.21.4.jar](https://github.com/hydefromme/archivemeteorclient/blob/main/versions/meteor-client-1.21.4-37.jar) |
 
 ## Credits:
 
