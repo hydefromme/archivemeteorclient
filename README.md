@@ -26,6 +26,13 @@ these versions will receive no updates or support. please read the [Old Versions
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.21.4 baritone                   | [baritone-1.21.4.jar](https://github.com/hydefromme/archivemeteorclient/blob/main/versions/baritone/baritone-meteor-1.21.4.jar)                |
 
+## Missing Versions
+
+| Mod             | Versions                                                                                                                                                        |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Meteor Client   | 0.1-1.21.3 |
+| Baritone | 0.1-1.21.3                                                                                                               |
+
 ## Credits:
 
 all of these versions are made by the meteor client team: 
