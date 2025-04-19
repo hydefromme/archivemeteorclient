@@ -2,14 +2,16 @@
 > [!NOTE]
 > THIS IS A NEW ARCHIVE WHICH BEGUN ON 4TH OF APRIL 2025
 
-## Disclaimer
-these versions will receive no updates or support. please read the [Old Versions FAQ](https://meteorclient.com/faq/old-versions)
+For people who don't want to compile them or find them.
 
 all the archived versions of meteorclient versions we have: 1.21.4-1.21.5
 
 i add the versions mostly the day they drop or within 2 days.
 
 official meteor client website: [meteorclient.com](https://meteorclient.com/)
+
+## Disclaimer
+these versions will receive no updates or support. please read the [Old Versions FAQ](https://meteorclient.com/faq/old-versions)
 
 ## Meteor client
 
