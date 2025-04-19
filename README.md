@@ -12,6 +12,7 @@ i add the versions mostly the day they drop or within 2 days.
 | Release             | Download                                                                                         |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.21.4              | [meteor-client-1.21.4.jar](https://github.com/hydefromme/archivemeteorclient/blob/main/versions/meteor-client-1.21.4-37.jar) |
+| 1.21.5              | [meteor-client 1.21.5.jar](https://github.com/hydefromme/archivemeteorclient/blob/main/versions/meteor/meteor-client-1.21.5-6.jar) |
 
 ## Credits:
 
