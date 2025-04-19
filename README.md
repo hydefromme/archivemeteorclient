@@ -10,6 +10,8 @@ i add the versions mostly the day they drop or within 2 days.
 
 official meteor client website: [meteorclient.com](https://meteorclient.com/)
 
+official meteor client support discord: [.gg/meteorclient](https://meteorclient.com/discord)
+
 ## Disclaimer
 these versions will receive no updates or support. please read the [Old Versions FAQ](https://meteorclient.com/faq/old-versions)
 
