@@ -1,5 +1,6 @@
 # How to download and put meteor client in ur game.
-u can skip the first two if you are using a other client to run minecraft most of them already use fabric and java and auto install them for u, but u may have to install java and fabric if ur gonna switch back to the normal client.
+> [!NOTE]
+> u can skip the first two if you are using a other client to run minecraft most of them already use fabric and java and auto install them for u, but u may have to install java and fabric if ur gonna switch back to the normal client.
 
 ## download fabric
 first you will need to get java (skip if you already have java installed or use a other client)
